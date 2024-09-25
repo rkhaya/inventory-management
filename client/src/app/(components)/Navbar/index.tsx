@@ -73,7 +73,7 @@ const Navbar = () => {
               className="rounded-full h-full object-cover"
             />
           </div>{" "}
-          <span className="font-semibold"> Rog god</span>
+          <span className="font-semibold"> rog moon</span>
         </div>
         <Link href="/settings">
           <Settings className="cursor-pointer text-gray-500" size={24} />
